@@ -1,0 +1,11 @@
+body {
+  background-color: #282c36;
+}
+
+.app__avatar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5vh;
+}
+
